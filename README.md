@@ -1,5 +1,4 @@
-# OF-Internship-Week2-Assignment
-# F1 Event Management and Notification System
+# F1 Event Management and Notification System - Week 2 Assignment
 
 ## Overview
 
