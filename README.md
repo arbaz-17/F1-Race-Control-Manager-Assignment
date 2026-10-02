@@ -10,7 +10,7 @@ The assignment required building an **Event Management and Notification System**
 - Registering one-time handlers
 - Supporting multiple handlers for the same event
 
-To make the system practical and easier to understand, I used a **Formula 1 race-control analogy**. Race events such as crashes, rain, Safety Car deployments, and race completion notify different observers, including racing teams, marshals, emergency services, and TV control.
+To make the system practical and easier to understand, I used a **Formula 1 race-control system analogy**. Race events such as crashes, rain, Safety Car deployments, and race completion notify different observers, including racing teams, marshals, emergency services, and TV control.
 
 ## What Was Created
 
