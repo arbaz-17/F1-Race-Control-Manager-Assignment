@@ -19,7 +19,7 @@ The project includes:
 - A reusable race-control event manager
 - A shared race instance for the desired race grand prix
 - Centralized race-event constants
-- Separate handler modules for each observer group
+- Separate modules for each observer group
 - A demo that shows the complete event flow
 
 ## Project Structure
@@ -49,7 +49,7 @@ project-root/
 
 ## Core Components
 
-### Race Control Event Manager
+### Race Control Event Manager System
 
 `src/raceControl/createRaceControl.js` contains the factory function that creates independent race event managers.
 
